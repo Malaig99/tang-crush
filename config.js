@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'Phải chăng tối đã say ngay từ lúc thấy nụ cười ấy, sự nhiệt huyết ấy. Bà đối với tui thế nào?',
     btnYes: 'Rất là quý :"3',
     btnNo: 'Không, có chồng Amway rồi',
-    question:'Vậy bà có mến tui chứ :">',
+    question:'Vậy bà có mến tui chứ:">',
     btnReply: 'Rất là mến lun <3',
     reply: 'Rất rất rất lun ah  <33333333',
     mess: 'Tui biết mà 🥰. Yêu Hiền nhiều nhiều 😘😘',
